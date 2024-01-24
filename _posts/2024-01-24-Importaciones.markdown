@@ -4,7 +4,6 @@ modal-id: 5
 date: 2024-01-24
 img: g5.png
 alt: image-alt
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: S/. 10
+description: Contenido completo de <b>COMO IMPORTAR CON EXITO DESDE CHINA</b>; descubre el mundo de la importación e inicia tu propio proyecto<br><br>VIDEOS<br>PRESENTACIONES 
 ---
