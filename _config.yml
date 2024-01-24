@@ -34,8 +34,8 @@ color:
 footer:
   copyright: Dr. Stone
   location: Huancayo
-  social: Around the Web
-  credits: Credits
+  social: En la web
+  credits: Creditos
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -52,11 +52,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Calle 3481 
-  - line: Huancayo, CA 90210
-
+  - line:
+  - line: 
+  
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Visite nuestra web donde compartiremos información de mucha importancia <a href="https://sj-library.github.io/page/">Library</a>.'
 
 # Build settings
 markdown: kramdown
