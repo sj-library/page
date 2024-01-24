@@ -4,7 +4,6 @@ modal-id: 2
 date: 2024-01-24
 img: g2.png
 alt: image-alt
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: S/. 20
+description: Contenido completo de <b>CHANCADORA CONICA</b>; conviertete en experto y mejora tus habilidades en mantenimiento de este equipo<br>PETS<br>MANUALES<br>PLANOS<br>VIDEOS<br>PRESENTACIONES
 ---
