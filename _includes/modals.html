@@ -17,12 +17,12 @@
             <hr class="star-primary">
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             {% if post.description %}
-            <p>{{ post.description }}</p>
+            <p style="color:green">{{ post.description }}</p>
             {% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}
               <li><H5>PRECIO DE OFERTA:</H5>
-                <strong>{{ post.client }}</strong>
+                <H3><strong>{{ post.client }}</strong></H3>
               </li>
               {% endif %}
               {% if post.project-date %}
