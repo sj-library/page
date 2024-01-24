@@ -4,6 +4,6 @@ modal-id: 1
 date: 2024-01-24
 img: g1.png
 alt: image-alt
-client: Start Bootstrap
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: S/. 25
+description: Empezamos el año con este increible contenido digital muy completo de <b>CHANCADORA GIRATORIA TOP SERVICE.</b><br><br>ppts<br>sesiones grabadas<br>manuales<br>videos adicionales y mas... 
 ---
