@@ -56,7 +56,7 @@ address:
   - line: 
   
 # Credits content
-credits: 'Visite nuestra web donde compartiremos información de mucha importancia <a href="https://sj-library.github.io/page/">Library</a>'
+credits: Todo el contenido en <a href="https://sj-library.github.io/page/">Library</a> es de acceso ilimitado y actualizable
 
 # Build settings
 markdown: kramdown
